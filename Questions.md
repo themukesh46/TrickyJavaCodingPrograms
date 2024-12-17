@@ -28,4 +28,10 @@ This file contains a list of Java questions with links to their respective solut
 
 ---
 
+#### 5. What is NaN - Not A Number? How is NaN defined in different languages? 🤔
+**Description:** What is NaN - Not A Number? How is NaN defined in different languages?.  
+[Solution: NaN.java](src/com/programs/NaN.java) 📂
+
+---
+
 
