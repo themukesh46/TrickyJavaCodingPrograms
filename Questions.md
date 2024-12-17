@@ -23,7 +23,7 @@ This file contains a list of Java questions with links to their respective solut
 ---
 
 #### 4. Compare Two Integer Numbers (Integer Caching) 🤔
-**Description:** Compare Two Integer Numbers (Integer Caching)
+**Description:** Compare Two Integer Numbers (Integer Caching).
 [Solution: CompareNumbers.java](src/com/programs/CompareNumbers.java) 📂
 
 ---
