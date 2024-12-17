@@ -4,7 +4,7 @@ This file contains a list of Java questions with links to their respective solut
 
 ---
 
-### 1. What is recursion?
+### 1. Print from 1 to 100 without using any numbers in your code.
 **Description:** Print from 1 to 100 without using any numbers in your code.  
 [Solution: OneToHunderd.java](src/OneToHunderd.java)
 
